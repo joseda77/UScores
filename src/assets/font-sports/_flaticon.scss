@@ -1,0 +1,119 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:34
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-american-football:before { content: "\f100"; }
+.flaticon-athlete:before { content: "\f101"; }
+.flaticon-athlete-1:before { content: "\f102"; }
+.flaticon-baseball:before { content: "\f103"; }
+.flaticon-basketball:before { content: "\f104"; }
+.flaticon-boxing:before { content: "\f105"; }
+.flaticon-certification:before { content: "\f106"; }
+.flaticon-cheerleader:before { content: "\f107"; }
+.flaticon-cup:before { content: "\f108"; }
+.flaticon-cup-1:before { content: "\f109"; }
+.flaticon-cycling:before { content: "\f10a"; }
+.flaticon-first-aid-kit:before { content: "\f10b"; }
+.flaticon-golf:before { content: "\f10c"; }
+.flaticon-healthy-food:before { content: "\f10d"; }
+.flaticon-hockey:before { content: "\f10e"; }
+.flaticon-karate:before { content: "\f10f"; }
+.flaticon-lacrosse:before { content: "\f110"; }
+.flaticon-medal:before { content: "\f111"; }
+.flaticon-ping-pong:before { content: "\f112"; }
+.flaticon-podium:before { content: "\f113"; }
+.flaticon-rings:before { content: "\f114"; }
+.flaticon-shoe:before { content: "\f115"; }
+.flaticon-ski:before { content: "\f116"; }
+.flaticon-skipping-rope:before { content: "\f117"; }
+.flaticon-soccer:before { content: "\f118"; }
+.flaticon-softball:before { content: "\f119"; }
+.flaticon-sport-bag:before { content: "\f11a"; }
+.flaticon-sport-field:before { content: "\f11b"; }
+.flaticon-squash:before { content: "\f11c"; }
+.flaticon-swimming-pool:before { content: "\f11d"; }
+.flaticon-team-badge:before { content: "\f11e"; }
+.flaticon-tennis:before { content: "\f11f"; }
+.flaticon-tracks:before { content: "\f120"; }
+.flaticon-uniform:before { content: "\f121"; }
+.flaticon-uniform-1:before { content: "\f122"; }
+.flaticon-uniform-2:before { content: "\f123"; }
+.flaticon-uniforms:before { content: "\f124"; }
+.flaticon-vaulting-horse:before { content: "\f125"; }
+.flaticon-volleyball:before { content: "\f126"; }
+.flaticon-wrestling:before { content: "\f127"; }
+    
+    $font-Flaticon-american-football: "\f100";
+    $font-Flaticon-athlete: "\f101";
+    $font-Flaticon-athlete-1: "\f102";
+    $font-Flaticon-baseball: "\f103";
+    $font-Flaticon-basketball: "\f104";
+    $font-Flaticon-boxing: "\f105";
+    $font-Flaticon-certification: "\f106";
+    $font-Flaticon-cheerleader: "\f107";
+    $font-Flaticon-cup: "\f108";
+    $font-Flaticon-cup-1: "\f109";
+    $font-Flaticon-cycling: "\f10a";
+    $font-Flaticon-first-aid-kit: "\f10b";
+    $font-Flaticon-golf: "\f10c";
+    $font-Flaticon-healthy-food: "\f10d";
+    $font-Flaticon-hockey: "\f10e";
+    $font-Flaticon-karate: "\f10f";
+    $font-Flaticon-lacrosse: "\f110";
+    $font-Flaticon-medal: "\f111";
+    $font-Flaticon-ping-pong: "\f112";
+    $font-Flaticon-podium: "\f113";
+    $font-Flaticon-rings: "\f114";
+    $font-Flaticon-shoe: "\f115";
+    $font-Flaticon-ski: "\f116";
+    $font-Flaticon-skipping-rope: "\f117";
+    $font-Flaticon-soccer: "\f118";
+    $font-Flaticon-softball: "\f119";
+    $font-Flaticon-sport-bag: "\f11a";
+    $font-Flaticon-sport-field: "\f11b";
+    $font-Flaticon-squash: "\f11c";
+    $font-Flaticon-swimming-pool: "\f11d";
+    $font-Flaticon-team-badge: "\f11e";
+    $font-Flaticon-tennis: "\f11f";
+    $font-Flaticon-tracks: "\f120";
+    $font-Flaticon-uniform: "\f121";
+    $font-Flaticon-uniform-1: "\f122";
+    $font-Flaticon-uniform-2: "\f123";
+    $font-Flaticon-uniforms: "\f124";
+    $font-Flaticon-vaulting-horse: "\f125";
+    $font-Flaticon-volleyball: "\f126";
+    $font-Flaticon-wrestling: "\f127";

@@ -1,0 +1,27 @@
+/*.flaticon-soccer:before{
+    font-size: 1000%;
+    color: green;
+}
+img{
+    background-color: green;
+}*/
+
+h2,h1{
+    text-align: center;
+}
+
+.flaticon-soccer:before, .flaticon-basketball:before,
+.flaticon-baseball:before{
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 100px;
+}
+
+i,h2{
+    color: green;
+}
+
+/*p{
+    margin: 100px 100px;
+}*/

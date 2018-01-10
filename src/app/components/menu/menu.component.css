@@ -1,0 +1,23 @@
+.nav-wrapper{
+    background-color: #4caf50;
+}
+.brand-logo/*, .image-logo*/{
+    padding: 0px 20px;
+}
+
+#dropdown1,#dropdown2 {    
+   position:relative;
+   margin-top: 4.6%;
+}
+
+#dropdown3,#dropdown4 {
+    margin-top: 48px;
+}
+
+#mobile-dropbutton {
+    padding-inline-end: 0%;
+}
+
+.side-nav{
+    width: 60%;
+}
