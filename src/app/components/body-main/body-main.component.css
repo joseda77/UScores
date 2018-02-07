@@ -11,7 +11,9 @@ h2,h1{
 }
 
 .flaticon-soccer:before, .flaticon-basketball:before,
-.flaticon-baseball:before{
+.flaticon-baseball:before, .flaticon-american-football:before,
+.flaticon-athlete:before,.flaticon-cycling:before,
+.flaticon-ping-pong:before   {
     display: block;
     margin: auto;
     text-align: center;
