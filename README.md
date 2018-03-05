@@ -23,6 +23,7 @@ Frameworks y Librerias adicionales.
 - Jwt-simple: sirve para la sesiones por token.
 - Momentjs: sirve para el manejo de fechas y horas.
 - Nodemon: actualiza el servidor y evita que tener que actualizarlo manualmente en caso de tener cambios.
+- Conectar express con mongojs
 
 Opcional...
 Para implementar en cuaquier dispositivo se necesita ionic(Framework de js) que usa mucho angular.
@@ -41,6 +42,7 @@ npm install angular2-materialize --save
 - Para instalar MomentJs: npm install moment --save
 - Para instalar Mongoose-Pagination: npm install mongoose-pagination --save     ó   npm install mongoose-paginate --save
 - Para instalar Nodemon: npm install nodemon --save-dev 
+- Para instalar Mongojs: npm install mongojs --save
 
 
 Despues de instalar cada una, dirigirse a cli.angular.json y buscar el arreglo de  styles y scripts
