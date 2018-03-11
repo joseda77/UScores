@@ -17,7 +17,8 @@ Para el Backend.
 Frameworks y Librerias adicionales.
 
 - Bcrypt: sirve para la encripatación de contraseñas y demas información.
-- Body-parser: es el modulo que utiliza express de http post.
+- Cors: sirve para conectar angular con el servidor
+- Body-parser(Integrado ya en express): es el modulo que utiliza express de http post.
 - Mongoose: es un ORM qe sirve para conectar nodejs con MongoDB.
 - Mongoose-Pagination: sirve para realizar las paginaciones.
 - Jwt-simple: sirve para la sesiones por token.
@@ -36,7 +37,8 @@ npm install angular2-materialize --save
 - Para instalar material icons: npm install material-design-icons
 - Para instalar Express: npm install express -save
 - Para instalar Bcrypt: npm install bcrypt --save
-- Para instalar Body-parser: npm install body-parser --save
+- Para instalar Cors: npm install cors --save
+- Para instalar Body-parser: npm install body-parser --save  (Esto ya viene integrado en las versiones recientes de express)
 - Para instalar Mogoose: npm install mongoose --save
 - Para instalar jwt-simple: npm install jwt-simple --save
 - Para instalar MomentJs: npm install moment --save
@@ -46,11 +48,11 @@ npm install angular2-materialize --save
 
 
 Despues de instalar cada una, dirigirse a cli.angular.json y buscar el arreglo de  styles y scripts
-y copiar dentro de styles = "../node_modules/materialize-css/dist/css/materialize.css"
+y copiar dentro de styles = "../node_modules/materialize-css/dist/css/materialize.css",
 	        "../node_modules/material-design-icons/iconfont/material-icons.css"
 
-y en scripts  copiar = "../node_modules/jquery/dist/jquery.min.js"
-                      "../node_modules/materialize-css/dist/js/materialize.js"
+y en scripts  copiar = "../node_modules/jquery/dist/jquery.min.js",
+                      "../node_modules/materialize-css/dist/js/materialize.js",
                       "../node_modules/hammerjs/hammer.js"
 
 
