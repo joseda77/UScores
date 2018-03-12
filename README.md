@@ -19,6 +19,7 @@ Frameworks y Librerias adicionales.
 - Bcrypt: sirve para la encripatación de contraseñas y demas información.
 - Cors: sirve para conectar angular con el servidor
 - Body-parser(Integrado ya en express): es el modulo que utiliza express de http post.
+- ejs: Sirve para ejecutar e integrar codigo en las vistas de html
 - Mongoose: es un ORM qe sirve para conectar nodejs con MongoDB.
 - Mongoose-Pagination: sirve para realizar las paginaciones.
 - Jwt-simple: sirve para la sesiones por token.
@@ -39,6 +40,7 @@ npm install angular2-materialize --save
 - Para instalar Bcrypt: npm install bcrypt --save
 - Para instalar Cors: npm install cors --save
 - Para instalar Body-parser: npm install body-parser --save  (Esto ya viene integrado en las versiones recientes de express)
+- Para instalar ejs_ npm install ejs --save
 - Para instalar Mogoose: npm install mongoose --save
 - Para instalar jwt-simple: npm install jwt-simple --save
 - Para instalar MomentJs: npm install moment --save
